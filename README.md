@@ -4,4 +4,4 @@ The original BlitzBasic code was re-written in Odin & Raylib.
 It can be compiled on any platform, and the modern low level language makes
 it easier to understand.
 
-![screenshot](https://github.com/Erickson400/CVG-Strikes-Back/screenshot.png)
+![screenshot](https://github.com/Erickson400/CVG-Strikes-Back/blob/main/screenshot.png)
